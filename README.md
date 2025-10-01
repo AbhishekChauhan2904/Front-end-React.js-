@@ -49,7 +49,7 @@
 10.  submit answer by student like this
 
 
-<img width="969" height="390" alt="Screenshot 2025-10-01 at 3 02 06 PM" src="https://github.com/user-attachments/assets/adb512af-e14a-4cb1-b738-aae07ad56641" />
+<img width="1010" height="692" alt="Screenshot 2025-10-01 at 4 01 58 PM" src="https://github.com/user-attachments/assets/43ed7e3a-b513-4101-8580-447fdd046ec2" />
 
 
    
